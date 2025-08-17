@@ -8,18 +8,20 @@ keywords: "rust, timezone, cli, ghostty, helix, programming"
 
 I built `timeplease` - a Rust CLI for timezone conversions. 
 
-This is my hand at building a CLI tool which solves a problem I have - trying to get time in different timezones while scheduling meetings. Thought it would be a good gateway project for Rust.
+This is my hand at building a CLI tool that solves a problem I have - getting time in different timezones while scheduling meetings.
 
 ## Usage
 
 Current time anywhere:
 ```bash
 timeplease current london
+# Output: 2025-08-17 14:30:00 BST London
 ```
 
 Convert between timezones:
 ```bash
 timeplease convert 10:00 india london  
+# Output: 10:00 IST India → 05:30 BST London
 ```
 
 ## Tools I tried
