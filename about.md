@@ -1,17 +1,22 @@
 ---
 layout: page
+title: "About Me"
 permalink: /about/
 ---
 
-## Few things I've enjoyed
+I like building/tinkering with stuff, consuming art (movies, books), badminton, and [chess](https://lichess.org/@/zfevenz).
 
-### Movies
+I'm from Coimbatore but currently based in Bangalore.
+
+**Here are few things I enjoyed:**
+
+**Movies**
 - In Bruges
 - Inglourious Basterds  
 - Kannathil Muthamittal
 - Before Trilogy
 
-### Books
+**Books**
 - Tomorrow Tomorrow Tomorrow
 - Project Hail Mary
-- Half Lion
+- Half - Lion: How P.V Narasimha Rao Transformed India
